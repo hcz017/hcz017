@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=hcz017&hide=issues&show_icons=true&include_all_commits=true)
+[![](https://github-readme-stats.vercel.app/api?username=hcz017&hide=issues&show_icons=true&include_all_commits=true)](https://github.com/hcz017/)
 
 <!---
 - 👋 Hi, I’m @hcz017
